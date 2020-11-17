@@ -2,7 +2,7 @@
 
 Board: Naze32
 
-GPS: ??
+GPS: Serial GPS 3.3V [INav GPS compatibles](https://github.com/iNavFlight/inav/wiki/GPS--and-Compass-setup)
 
 IMU: MPU6050
 
