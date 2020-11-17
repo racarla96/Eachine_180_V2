@@ -2,14 +2,21 @@
 
 Board: Naze32
 https://youtu.be/vSCWzXqyafc
+
 Magnetometer: HMC5883
+
 Barometer: BMP280
+
 Emisora: 
 Eachine i6 / FrSky i6
 Eachine AFHDS 2A
+
 https://www.youtube.com/watch?v=9-Z0rTVEkHI
+
 https://www.youtube.com/watch?v=8kDG9EKZAiI
-Batería: 
+
+Batería: Recommended modify for general purpose drone battery
+
 MOD Batería:
 https://youtu.be/wMdyIR99HKA
 
