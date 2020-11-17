@@ -14,7 +14,7 @@ Eachine AFHDS 2A
 
 [YouTube -> Binding and Setting Up the FlySky i6 Transmitter for a quadcopter/drone](https://www.youtube.com/watch?v=9-Z0rTVEkHI)
 
-[YouTube -> Review de Control FlySky/Turnigy/Eachine i6 - Español])https://www.youtube.com/watch?v=8kDG9EKZAiI)
+[YouTube -> Review de Control FlySky/Turnigy/Eachine i6 - Español](https://www.youtube.com/watch?v=8kDG9EKZAiI)
 
 Battery: Recommended modify for general purpose drone battery like in the video
 MOD Battery:
