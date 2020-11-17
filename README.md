@@ -2,15 +2,15 @@
 
 Board: Naze32
 
+GPS: ??
+
 IMU: MPU6050
 
 Magnetometer: HMC5883
 
 Barometer: BMP280
 
-Radio: 
-Eachine i6 / FrSky i6
-Eachine AFHDS 2A
+Radio: Eachine i6 / FrSky i6 <-> Eachine AFHDS 2A
 
 [YouTube -> Binding and Setting Up the FlySky i6 Transmitter for a quadcopter/drone](https://www.youtube.com/watch?v=9-Z0rTVEkHI)
 
